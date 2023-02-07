@@ -1,0 +1,15 @@
+    .mainTab {
+        font-size: 15px;
+        font-family: sans-serif;
+    }
+    
+    .tabele {
+        border-top: solid;
+        border-bottom: solid;
+        text-align: center;
+        width: auto;
+        border-color: deepskyblue;
+        margin-left: 0px;
+    }
+    
+    .tabrow {}
